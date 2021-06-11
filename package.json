@@ -6,7 +6,7 @@
   "author": {
     "name": "mattcroat"
   },
-  "publisher": "mattcroat",
+  "publisher": "Matia",
   "license": "SEE LICENSE IN LICENSE",
   "scripts": {
     "publish": "vsce publish"
