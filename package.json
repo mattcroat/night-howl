@@ -15,11 +15,10 @@
     "vscode": "^1.55.0"
   },
   "keywords": [
-    "Theme",
-    "Dark Theme",
-    "Night Howl",
-    "Night Theme",
-    "Minimal Theme"
+    "theme",
+    "dark theme",
+    "night howl",
+    "night theme"
   ],
   "icon": "images/night-howl-icon.png",
   "galleryBanner": {
