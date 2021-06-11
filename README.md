@@ -1,16 +1,14 @@
-# README
+# Night Howl 🐺
 
-## This is the README for your extension "night-howl"
+Pleasing dark night blue theme for VS Code to keep you focused. Based on [Night Wolf](https://marketplace.visualstudio.com/items?itemName=MaoSantaella.night-wolf).
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Theme Preview
 
-- Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-- Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-- Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+![Preview of Night Howl](images/preview.png)
 
-### For more information
+## Installation
 
-- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+1. Install [Visual Studio Code](https://code.visualstudio.com/)
+2. View > Extensions
+3. Search for "Night Howl" and install
+4. File > Preferences > Color Theme
