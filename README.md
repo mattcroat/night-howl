@@ -1,10 +1,12 @@
 # Night Howl 🐺
 
-Pleasing dark night blue theme for VS Code to keep you focused. Based on [Night Wolf](https://marketplace.visualstudio.com/items?itemName=MaoSantaella.night-wolf).
+Pleasing dark night blue theme for VS Code to keep you focused.
+
+Based on [Night Wolf](https://marketplace.visualstudio.com/items?itemName=MaoSantaella.night-wolf).
 
 ## Theme Preview
 
-![Preview of Night Howl](images/preview.png)
+![Night Howl Preview](images/preview.png)
 
 ## Installation
 
