@@ -2,7 +2,7 @@
   "name": "night-howl",
   "displayName": "Night Howl",
   "description": "Pleasing night blue theme for night howls",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "author": {
     "name": "mattcroat"
   },
@@ -34,6 +34,11 @@
         "label": "Night Howl",
         "uiTheme": "vs-dark",
         "path": "./themes/night-howl.json"
+      },
+      {
+        "label": "Night Howl (No Italics)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/night-howl-no-italic.json"
       }
     ]
   },
